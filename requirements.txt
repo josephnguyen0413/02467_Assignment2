@@ -1,0 +1,10 @@
+numpy
+pandas
+nltk
+networkx
+netwulf
+wordcloud
+tqdm
+matplotlib
+seaborn
+python-louvain
